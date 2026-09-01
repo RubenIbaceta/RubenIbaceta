@@ -1,16 +1,17 @@
-## Hi there 👋
+```zsh
+ruben@dev ~ % whoami
+Rubén Ibaceta — Computer Engineering Student & Backend Developer
 
-<!--
-**RubenIbaceta/RubenIbaceta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ruben@dev ~ % cat stack.txt
+- Python
+- TypeScript
+- Go (currently learning)
 
-Here are some ideas to get you started:
+ruben@dev ~ % status
+● Location: Chile
+● Focus:    Backend Systems & Cloud Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ruben@dev ~ % links --open
+➜ Portfolio: [https://portafolio-v1-mu.vercel.app/](https://portafolio-v1-mu.vercel.app/)
+➜ Contact:   rubenibaceta.dev@gmail.com
+➜ LinkedIn:  [https://linkedin.com/in/rubenibacetacortes](https://linkedin.com/in/rubenibacetacortes)
