@@ -43,7 +43,7 @@
 <p style="margin: 0;">
 <img src="https://cdn.simpleicons.org/git/F05032" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Git</code> &nbsp;
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Linux</code> &nbsp;
-<img src="https://cdn.simpleicons.org/amazon-aws/FF9900" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">AWS</code> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">AWS</code> &nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Docker</code>
 </p>
 </td>
