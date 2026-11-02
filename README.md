@@ -24,14 +24,12 @@
 <p style="margin: 0 0 16px 0;">
 <img src="https://cdn.simpleicons.org/python/3776AB" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Python</code> &nbsp;
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">TypeScript</code> &nbsp;
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Go</code> &nbsp;
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Node.js</code>
 </p>
 <p style="color: #8b949e; font-size: 12px; margin: 0 0 8px 0; text-transform: uppercase;"><strong>Frameworks & Web</strong></p>
 <p style="margin: 0 0 16px 0;">
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Express.js</code> &nbsp;
 <img src="https://cdn.simpleicons.org/django/092E20" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">Django</code> &nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="16" style="vertical-align: middle;"> <code style="background-color: #161b22; color: #c9d1d9; border: 1px solid #30363d; padding: 3px 8px; border-radius: 6px;">FastAPI / REST APIs</code>
 </p>
 <p style="color: #8b949e; font-size: 12px; margin: 0 0 8px 0; text-transform: uppercase;"><strong>Databases</strong></p>
 <p style="margin: 0 0 16px 0;">
