@@ -1,10 +1,6 @@
 <div align="center">
 
 <table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 255, 255, 0.15); border-collapse: separate; border-spacing: 0;">
-<tr>
-<td width="190" align="center" style="padding: 20px;">
-<img src="https://external-preview.redd.it/random-rat-smoking-v0-tsdghv4ZeXo6mVYf-Uzeqf0REgtG5fAM7FzMvk8IbSQ.jpg?width=640&crop=smart&auto=webp&s=f535f92f0b84694453b491ef4f0cbdcc3cadb264" width="165" height="165" style="border-radius:12px; border: 1px solid #30363d; object-fit: cover;" />
-</td>
 <td width="380" align="center" style="padding: 20px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;">
 <h1 style="color: #ffffff; margin: 0; font-size: 26px;">Rubén Ibaceta</h1>
 <hr style="border: 0; border-top: 1px solid #30363d; margin: 12px 0;">
